@@ -1,4 +1,4 @@
-﻿namespace NorthWind.Sales.BusinessObjects.Repositories
+﻿namespace NorthWind.Sales.BusinessObjects.Interfaces.Repositories
 {
     public interface INorthWindSalesCommandsRepository : IUnitOfWork
     {
