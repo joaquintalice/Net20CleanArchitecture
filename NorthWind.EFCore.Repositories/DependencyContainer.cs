@@ -1,4 +1,4 @@
-﻿namespace NorthWind.Sales.UseCases
+﻿namespace NorthWind.EFCore.Repositories
 {
     public static class DependencyContainer
     {
